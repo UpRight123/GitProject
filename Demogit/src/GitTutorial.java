@@ -1,4 +1,4 @@
-
+import javaBasic.Practice;
 
 public class GitTutorial {
 
@@ -26,7 +26,10 @@ public class GitTutorial {
 	       }
 	      
 
-
 	}
 
+	public void openBrowser(){
+		//System.out.println("I am in method");
+		
+	}
 }
